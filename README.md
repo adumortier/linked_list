@@ -8,7 +8,7 @@ Go implementation of the linked list with `prepend`, `append`, `insert` and `rea
 ```sh
 $ git clone https://github.com/adumortier/linked_list.git
 ```
-2. Install go (instructions [here](https://golang.org/doc/install)
+2. Install go (instructions [here] (https://golang.org/doc/install)
 
 3. Run the code
 
